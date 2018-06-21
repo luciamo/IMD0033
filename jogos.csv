@@ -1,0 +1,848 @@
+data;Selecao_a;Selecao_b;gols_a;gols_b;organizador
+13/07/30;Belgium;USA;0;3;Uruguay
+13/07/30;France;Mexico;4;1;Uruguay
+14/07/30;Brazil;Yugoslavia;1;2;Uruguay
+14/07/30;Peru;Romania;1;3;Uruguay
+15/07/30;Argentina;France;1;0;Uruguay
+16/07/30;Chile;Mexico;3;0;Uruguay
+17/07/30;Bolivia;Yugoslavia;0;4;Uruguay
+17/07/30;Paraguay;USA;0;3;Uruguay
+18/07/30;Uruguay;Peru;1;0;Uruguay
+19/07/30;Argentina;Mexico;6;3;Uruguay
+19/07/30;Chile;France;1;0;Uruguay
+20/07/30;Belgium;Paraguay;0;1;Uruguay
+20/07/30;Bolivia;Brazil;0;4;Uruguay
+21/07/30;Uruguay;Romania;4;0;Uruguay
+22/07/30;Argentina;Chile;3;1;Uruguay
+26/07/30;Argentina;USA;6;1;Uruguay
+27/07/30;Uruguay;Yugoslavia;6;1;Uruguay
+30/07/30;Uruguay;Argentina;4;2;Uruguay
+27/05/34;Argentina;Sweden;2;3;Italy
+27/05/34;Austria;France;3;2;Italy
+27/05/34;Belgium;Germany;2;5;Italy
+27/05/34;Brazil;Spain;1;3;Italy
+27/05/34;Czechoslovakia;Romania;2;1;Italy
+27/05/34;Egypt;Hungary;2;4;Italy
+27/05/34;Italy;USA;7;1;Italy
+27/05/34;Netherlands;Switzerland;2;3;Italy
+31/05/34;Austria;Hungary;2;1;Italy
+31/05/34;Czechoslovakia;Switzerland;3;2;Italy
+31/05/34;Germany;Sweden;2;1;Italy
+31/05/34;Italy;Spain;1;1;Italy
+01/06/34;Italy;Spain;1;0;Italy
+03/06/34;Czechoslovakia;Germany;3;1;Italy
+03/06/34;Italy;Austria;1;0;Italy
+07/06/34;Austria;Germany;2;3;Italy
+10/06/34;Italy;Czechoslovakia;2;1;Italy
+04/06/38;Germany;Switzerland;1;1;France
+05/06/38;Brazil;Poland;6;5;France
+05/06/38;Cuba;Romania;3;3;France
+05/06/38;Czechoslovakia;Netherlands;3;0;France
+05/06/38;France;Belgium;3;1;France
+05/06/38;Hungary;Indonesia;6;0;France
+05/06/38;Italy;Norway;2;1;France
+09/06/38;Cuba;Romania;2;1;France
+09/06/38;Germany;Switzerland;2;4;France
+12/06/38;Brazil;Czechoslovakia;1;1;France
+12/06/38;Cuba;Sweden;0;8;France
+12/06/38;France;Italy;1;3;France
+12/06/38;Hungary;Switzerland;2;0;France
+14/06/38;Brazil;Czechoslovakia;2;1;France
+16/06/38;Brazil;Italy;1;2;France
+16/06/38;Hungary;Sweden;5;1;France
+19/06/38;Brazil;Sweden;4;2;France
+19/06/38;Hungary;Italy;2;4;France
+24/06/50;Brazil;Mexico;4;0;Brazil
+25/06/50;Chile;England;0;2;Brazil
+25/06/50;Italy;Sweden;2;3;Brazil
+25/06/50;Spain;USA;3;1;Brazil
+25/06/50;Switzerland;Yugoslavia;0;3;Brazil
+28/06/50;Brazil;Switzerland;2;2;Brazil
+28/06/50;Mexico;Yugoslavia;1;4;Brazil
+29/06/50;Chile;Spain;0;2;Brazil
+29/06/50;England;USA;0;1;Brazil
+29/06/50;Paraguay;Sweden;2;2;Brazil
+01/07/50;Brazil;Yugoslavia;2;0;Brazil
+02/07/50;Bolivia;Uruguay;0;8;Brazil
+02/07/50;Chile;USA;5;2;Brazil
+02/07/50;England;Spain;0;1;Brazil
+02/07/50;Italy;Paraguay;2;0;Brazil
+02/07/50;Mexico;Switzerland;1;2;Brazil
+09/07/50;Brazil;Sweden;7;1;Brazil
+09/07/50;Spain;Uruguay;2;2;Brazil
+13/07/50;Brazil;Spain;6;1;Brazil
+13/07/50;Sweden;Uruguay;2;3;Brazil
+16/07/50;Brazil;Uruguay;1;2;Brazil
+16/07/50;Spain;Sweden;1;3;Brazil
+16/06/54;Austria;Scotland;1;0;Switzerland
+16/06/54;Brazil;Mexico;5;0;Switzerland
+16/06/54;Czechoslovakia;Uruguay;0;2;Switzerland
+16/06/54;France;Yugoslavia;0;1;Switzerland
+17/06/54;Belgium;England;4;4;Switzerland
+17/06/54;Germany;Turkey;4;1;Switzerland
+17/06/54;Hungary;Korea Republic;9;0;Switzerland
+17/06/54;Switzerland;Italy;2;1;Switzerland
+19/06/54;Austria;Czechoslovakia;5;0;Switzerland
+19/06/54;Brazil;Yugoslavia;1;1;Switzerland
+19/06/54;France;Mexico;3;2;Switzerland
+19/06/54;Scotland;Uruguay;0;7;Switzerland
+20/06/54;Belgium;Italy;1;4;Switzerland
+20/06/54;Germany;Hungary;3;8;Switzerland
+20/06/54;Korea Republic;Turkey;0;7;Switzerland
+20/06/54;Switzerland;England;0;2;Switzerland
+23/06/54;Germany;Turkey;7;2;Switzerland
+23/06/54;Switzerland;Italy;4;1;Switzerland
+26/06/54;England;Uruguay;2;4;Switzerland
+26/06/54;Switzerland;Austria;5;7;Switzerland
+27/06/54;Brazil;Hungary;2;4;Switzerland
+27/06/54;Germany;Yugoslavia;2;0;Switzerland
+30/06/54;Austria;Germany;1;6;Switzerland
+30/06/54;Hungary;Uruguay;4;2;Switzerland
+03/07/54;Austria;Uruguay;3;1;Switzerland
+04/07/54;Germany;Hungary;3;2;Switzerland
+08/06/58;Argentina;Germany;1;3;Sweden
+08/06/58;Austria;Brazil;0;3;Sweden
+08/06/58;Czechoslovakia;Northern Ireland;0;1;Sweden
+08/06/58;England;Russia;2;2;Sweden
+08/06/58;France;Paraguay;7;3;Sweden
+08/06/58;Hungary;Wales;1;1;Sweden
+08/06/58;Scotland;Yugoslavia;1;1;Sweden
+08/06/58;Sweden;Mexico;3;0;Sweden
+11/06/58;Argentina;Northern Ireland;3;1;Sweden
+11/06/58;Austria;Russia;0;2;Sweden
+11/06/58;Brazil;England;0;0;Sweden
+11/06/58;Czechoslovakia;Germany;2;2;Sweden
+11/06/58;France;Yugoslavia;2;3;Sweden
+11/06/58;Mexico;Wales;1;1;Sweden
+11/06/58;Paraguay;Scotland;3;2;Sweden
+12/06/58;Sweden;Hungary;2;1;Sweden
+15/06/58;Argentina;Czechoslovakia;1;6;Sweden
+15/06/58;Austria;England;2;2;Sweden
+15/06/58;Brazil;Russia;2;0;Sweden
+15/06/58;France;Scotland;2;1;Sweden
+15/06/58;Germany;Northern Ireland;2;2;Sweden
+15/06/58;Hungary;Mexico;4;0;Sweden
+15/06/58;Paraguay;Yugoslavia;3;3;Sweden
+15/06/58;Sweden;Wales;0;0;Sweden
+17/06/58;Czechoslovakia;Northern Ireland;1;2;Sweden
+17/06/58;England;Russia;0;1;Sweden
+17/06/58;Hungary;Wales;1;2;Sweden
+19/06/58;Brazil;Wales;1;0;Sweden
+19/06/58;France;Northern Ireland;4;0;Sweden
+19/06/58;Germany;Yugoslavia;1;0;Sweden
+19/06/58;Sweden;Russia;2;0;Sweden
+24/06/58;Brazil;France;5;2;Sweden
+24/06/58;Sweden;Germany;3;1;Sweden
+28/06/58;France;Germany;6;3;Sweden
+29/06/58;Sweden;Brazil;2;5;Sweden
+30/05/62;Argentina;Bulgaria;1;0;Chile
+30/05/62;Brazil;Mexico;2;0;Chile
+30/05/62;Chile;Switzerland;3;1;Chile
+30/05/62;Colombia;Uruguay;1;2;Chile
+31/05/62;Czechoslovakia;Spain;1;0;Chile
+31/05/62;England;Hungary;1;2;Chile
+31/05/62;Germany;Italy;0;0;Chile
+31/05/62;Russia;Yugoslavia;2;0;Chile
+02/06/62;Argentina;England;1;3;Chile
+02/06/62;Brazil;Czechoslovakia;0;0;Chile
+02/06/62;Chile;Italy;2;0;Chile
+02/06/62;Uruguay;Yugoslavia;1;3;Chile
+03/06/62;Bulgaria;Hungary;1;6;Chile
+03/06/62;Colombia;Russia;4;4;Chile
+03/06/62;Germany;Switzerland;2;1;Chile
+03/06/62;Mexico;Spain;0;1;Chile
+06/06/62;Argentina;Hungary;0;0;Chile
+06/06/62;Brazil;Spain;2;1;Chile
+06/06/62;Chile;Germany;0;2;Chile
+06/06/62;Russia;Uruguay;2;1;Chile
+07/06/62;Bulgaria;England;0;0;Chile
+07/06/62;Colombia;Yugoslavia;0;5;Chile
+07/06/62;Czechoslovakia;Mexico;1;3;Chile
+07/06/62;Italy;Switzerland;3;0;Chile
+10/06/62;Brazil;England;3;1;Chile
+10/06/62;Chile;Russia;2;1;Chile
+10/06/62;Czechoslovakia;Hungary;1;0;Chile
+10/06/62;Germany;Yugoslavia;0;1;Chile
+13/06/62;Chile;Brazil;2;4;Chile
+13/06/62;Czechoslovakia;Yugoslavia;3;1;Chile
+16/06/62;Chile;Yugoslavia;1;0;Chile
+17/06/62;Brazil;Czechoslovakia;3;1;Chile
+11/07/66;England;Uruguay;0;0;England
+12/07/66;Brazil;Bulgaria;2;0;England
+12/07/66;Germany;Switzerland;5;0;England
+12/07/66;Korea DPR;Russia;0;3;England
+13/07/66;Argentina;Spain;2;1;England
+13/07/66;Chile;Italy;0;2;England
+13/07/66;France;Mexico;1;1;England
+13/07/66;Hungary;Portugal;1;3;England
+15/07/66;Brazil;Hungary;1;3;England
+15/07/66;Chile;Korea DPR;1;1;England
+15/07/66;France;Uruguay;1;2;England
+15/07/66;Spain;Switzerland;2;1;England
+16/07/66;Argentina;Germany;0;0;England
+16/07/66;Bulgaria;Portugal;0;3;England
+16/07/66;England;Mexico;2;0;England
+16/07/66;Italy;Russia;0;1;England
+19/07/66;Argentina;Switzerland;2;0;England
+19/07/66;Brazil;Portugal;1;3;England
+19/07/66;Italy;Korea DPR;0;1;England
+19/07/66;Mexico;Uruguay;0;0;England
+20/07/66;Bulgaria;Hungary;1;3;England
+20/07/66;Chile;Russia;1;2;England
+20/07/66;England;France;2;0;England
+20/07/66;Germany;Spain;2;1;England
+23/07/66;England;Argentina;1;0;England
+23/07/66;Germany;Uruguay;4;0;England
+23/07/66;Hungary;Russia;1;2;England
+23/07/66;Korea DPR;Portugal;3;5;England
+25/07/66;Germany;Russia;2;1;England
+26/07/66;England;Portugal;2;1;England
+28/07/66;Portugal;Russia;2;1;England
+30/07/66;England;Germany;4;2;England
+31/05/70;Mexico;Russia;0;0;Mexico
+02/06/70;Bulgaria;Peru;2;3;Mexico
+02/06/70;England;Romania;1;0;Mexico
+02/06/70;Israel;Uruguay;0;2;Mexico
+03/06/70;Belgium;El Salvador;3;0;Mexico
+03/06/70;Brazil;Czechoslovakia;4;1;Mexico
+03/06/70;Germany;Morocco;2;1;Mexico
+03/06/70;Italy;Sweden;1;0;Mexico
+06/06/70;Belgium;Russia;1;4;Mexico
+06/06/70;Czechoslovakia;Romania;1;2;Mexico
+06/06/70;Italy;Uruguay;0;0;Mexico
+06/06/70;Morocco;Peru;0;3;Mexico
+07/06/70;Brazil;England;1;0;Mexico
+07/06/70;Bulgaria;Germany;2;5;Mexico
+07/06/70;Israel;Sweden;1;1;Mexico
+07/06/70;Mexico;El Salvador;4;0;Mexico
+10/06/70;Brazil;Romania;3;2;Mexico
+10/06/70;El Salvador;Russia;0;2;Mexico
+10/06/70;Germany;Peru;3;1;Mexico
+10/06/70;Sweden;Uruguay;1;0;Mexico
+11/06/70;Bulgaria;Morocco;1;1;Mexico
+11/06/70;Czechoslovakia;England;0;1;Mexico
+11/06/70;Israel;Italy;0;0;Mexico
+11/06/70;Mexico;Belgium;1;0;Mexico
+14/06/70;Brazil;Peru;4;2;Mexico
+14/06/70;England;Germany;2;3;Mexico
+14/06/70;Mexico;Italy;1;4;Mexico
+14/06/70;Russia;Uruguay;0;1;Mexico
+17/06/70;Brazil;Uruguay;3;1;Mexico
+17/06/70;Germany;Italy;3;4;Mexico
+20/06/70;Germany;Uruguay;1;0;Mexico
+21/06/70;Brazil;Italy;4;1;Mexico
+13/06/74;Brazil;Yugoslavia;0;0;Germany
+14/06/74;Congo DR;Scotland;0;2;Germany
+14/06/74;German DR;Australia;2;0;Germany
+14/06/74;Germany;Chile;1;0;Germany
+15/06/74;Italy;Haiti;3;1;Germany
+15/06/74;Poland;Argentina;3;2;Germany
+15/06/74;Sweden;Bulgaria;0;0;Germany
+15/06/74;Uruguay;Netherlands;0;2;Germany
+18/06/74;Chile;German DR;1;1;Germany
+18/06/74;Germany;Australia;3;0;Germany
+18/06/74;Scotland;Brazil;0;0;Germany
+18/06/74;Yugoslavia;Congo DR;9;0;Germany
+19/06/74;Argentina;Italy;1;1;Germany
+19/06/74;Bulgaria;Uruguay;1;1;Germany
+19/06/74;Haiti;Poland;0;7;Germany
+19/06/74;Netherlands;Sweden;0;0;Germany
+22/06/74;Australia;Chile;0;0;Germany
+22/06/74;Congo DR;Brazil;0;3;Germany
+22/06/74;Germany;German DR;0;1;Germany
+22/06/74;Scotland;Yugoslavia;1;1;Germany
+23/06/74;Argentina;Haiti;4;1;Germany
+23/06/74;Bulgaria;Netherlands;1;4;Germany
+23/06/74;Poland;Italy;2;1;Germany
+23/06/74;Sweden;Uruguay;3;0;Germany
+26/06/74;Brazil;German DR;1;0;Germany
+26/06/74;Germany;Yugoslavia;2;0;Germany
+26/06/74;Netherlands;Argentina;4;0;Germany
+26/06/74;Sweden;Poland;0;1;Germany
+30/06/74;Argentina;Brazil;1;2;Germany
+30/06/74;German DR;Netherlands;0;2;Germany
+30/06/74;Germany;Sweden;4;2;Germany
+30/06/74;Poland;Yugoslavia;2;1;Germany
+03/07/74;Argentina;German DR;1;1;Germany
+03/07/74;Germany;Poland;1;0;Germany
+03/07/74;Netherlands;Brazil;2;0;Germany
+03/07/74;Sweden;Yugoslavia;2;1;Germany
+06/07/74;Brazil;Poland;0;1;Germany
+07/07/74;Germany;Netherlands;2;1;Germany
+01/06/78;Germany;Poland;0;0;Argentina
+02/06/78;Argentina;Hungary;2;1;Argentina
+02/06/78;France;Italy;1;2;Argentina
+02/06/78;Mexico;Tunisia;1;3;Argentina
+03/06/78;Austria;Spain;2;1;Argentina
+03/06/78;Brazil;Sweden;1;1;Argentina
+03/06/78;Iran;Netherlands;0;3;Argentina
+03/06/78;Peru;Scotland;3;1;Argentina
+06/06/78;Argentina;France;2;1;Argentina
+06/06/78;Germany;Mexico;6;0;Argentina
+06/06/78;Hungary;Italy;1;3;Argentina
+06/06/78;Poland;Tunisia;1;0;Argentina
+07/06/78;Austria;Sweden;1;0;Argentina
+07/06/78;Brazil;Spain;0;0;Argentina
+07/06/78;Iran;Scotland;1;1;Argentina
+07/06/78;Netherlands;Peru;0;0;Argentina
+10/06/78;Argentina;Italy;0;1;Argentina
+10/06/78;France;Hungary;3;1;Argentina
+10/06/78;Germany;Tunisia;0;0;Argentina
+10/06/78;Mexico;Poland;1;3;Argentina
+11/06/78;Austria;Brazil;0;1;Argentina
+11/06/78;Iran;Peru;1;4;Argentina
+11/06/78;Netherlands;Scotland;2;3;Argentina
+11/06/78;Spain;Sweden;1;0;Argentina
+14/06/78;Argentina;Poland;2;0;Argentina
+14/06/78;Austria;Netherlands;1;5;Argentina
+14/06/78;Brazil;Peru;3;0;Argentina
+14/06/78;Germany;Italy;0;0;Argentina
+18/06/78;Argentina;Brazil;0;0;Argentina
+18/06/78;Austria;Italy;0;1;Argentina
+18/06/78;Germany;Netherlands;2;2;Argentina
+18/06/78;Peru;Poland;0;1;Argentina
+21/06/78;Argentina;Peru;6;0;Argentina
+21/06/78;Austria;Germany;3;2;Argentina
+21/06/78;Brazil;Poland;3;1;Argentina
+21/06/78;Italy;Netherlands;1;2;Argentina
+24/06/78;Brazil;Italy;2;1;Argentina
+25/06/78;Argentina;Netherlands;3;1;Argentina
+13/06/82;Argentina;Belgium;0;1;Spain
+14/06/82;Brazil;Russia;2;1;Spain
+14/06/82;Italy;Poland;0;0;Spain
+15/06/82;Hungary;El Salvador;10;1;Spain
+15/06/82;Peru;Cameroon;0;0;Spain
+15/06/82;Scotland;New Zealand;5;2;Spain
+16/06/82;England;France;3;1;Spain
+16/06/82;Germany;Algeria;1;2;Spain
+16/06/82;Spain;Honduras;1;1;Spain
+17/06/82;Chile;Austria;0;1;Spain
+17/06/82;Czechoslovakia;Kuwait;1;1;Spain
+17/06/82;Yugoslavia;Northern Ireland;0;0;Spain
+18/06/82;Argentina;Hungary;4;1;Spain
+18/06/82;Brazil;Scotland;4;1;Spain
+18/06/82;Italy;Peru;1;1;Spain
+19/06/82;Belgium;El Salvador;1;0;Spain
+19/06/82;Poland;Cameroon;0;0;Spain
+19/06/82;Russia;New Zealand;3;0;Spain
+20/06/82;England;Czechoslovakia;2;0;Spain
+20/06/82;Germany;Chile;4;1;Spain
+20/06/82;Spain;Yugoslavia;2;1;Spain
+21/06/82;Algeria;Austria;0;2;Spain
+21/06/82;France;Kuwait;4;1;Spain
+21/06/82;Honduras;Northern Ireland;1;1;Spain
+22/06/82;Belgium;Hungary;1;1;Spain
+22/06/82;Poland;Peru;5;1;Spain
+22/06/82;Russia;Scotland;2;2;Spain
+23/06/82;Argentina;El Salvador;2;0;Spain
+23/06/82;Brazil;New Zealand;4;0;Spain
+23/06/82;Italy;Cameroon;1;1;Spain
+24/06/82;Algeria;Chile;3;2;Spain
+24/06/82;France;Czechoslovakia;1;1;Spain
+24/06/82;Honduras;Yugoslavia;0;1;Spain
+25/06/82;England;Kuwait;1;0;Spain
+25/06/82;Germany;Austria;1;0;Spain
+25/06/82;Spain;Northern Ireland;0;1;Spain
+28/06/82;Austria;France;0;1;Spain
+28/06/82;Poland;Belgium;3;0;Spain
+29/06/82;Germany;England;0;0;Spain
+29/06/82;Italy;Argentina;2;1;Spain
+01/07/82;Austria;Northern Ireland;2;2;Spain
+01/07/82;Belgium;Russia;0;1;Spain
+02/07/82;Argentina;Brazil;1;3;Spain
+02/07/82;Spain;Germany;1;2;Spain
+04/07/82;France;Northern Ireland;4;1;Spain
+04/07/82;Poland;Russia;0;0;Spain
+05/07/82;Italy;Brazil;3;2;Spain
+05/07/82;Spain;England;0;0;Spain
+08/07/82;Germany;France;3;3;Spain
+08/07/82;Poland;Italy;0;2;Spain
+10/07/82;Poland;France;3;2;Spain
+11/07/82;Italy;Germany;3;1;Spain
+31/05/86;Bulgaria;Italy;1;1;Mexico
+01/06/86;Canada;France;0;1;Mexico
+01/06/86;Spain;Brazil;0;1;Mexico
+02/06/86;Argentina;Korea Republic;3;1;Mexico
+02/06/86;Morocco;Poland;0;0;Mexico
+02/06/86;Russia;Hungary;6;0;Mexico
+03/06/86;Algeria;Northern Ireland;1;1;Mexico
+03/06/86;Mexico;Belgium;2;1;Mexico
+03/06/86;Portugal;England;1;0;Mexico
+04/06/86;Paraguay;Iraq;1;0;Mexico
+04/06/86;Scotland;Denmark;0;1;Mexico
+04/06/86;Uruguay;Germany;1;1;Mexico
+05/06/86;France;Russia;1;1;Mexico
+05/06/86;Italy;Argentina;1;1;Mexico
+05/06/86;Korea Republic;Bulgaria;1;1;Mexico
+06/06/86;Brazil;Algeria;1;0;Mexico
+06/06/86;England;Morocco;0;0;Mexico
+06/06/86;Hungary;Canada;2;0;Mexico
+07/06/86;Mexico;Paraguay;1;1;Mexico
+07/06/86;Northern Ireland;Spain;1;2;Mexico
+07/06/86;Poland;Portugal;1;0;Mexico
+08/06/86;Denmark;Uruguay;6;1;Mexico
+08/06/86;Germany;Scotland;2;1;Mexico
+08/06/86;Iraq;Belgium;1;2;Mexico
+09/06/86;Hungary;France;0;3;Mexico
+09/06/86;Russia;Canada;2;0;Mexico
+10/06/86;Argentina;Bulgaria;2;0;Mexico
+10/06/86;Korea Republic;Italy;2;3;Mexico
+11/06/86;England;Poland;3;0;Mexico
+11/06/86;Mexico;Iraq;1;0;Mexico
+11/06/86;Paraguay;Belgium;2;2;Mexico
+11/06/86;Portugal;Morocco;1;3;Mexico
+12/06/86;Algeria;Spain;0;3;Mexico
+12/06/86;Northern Ireland;Brazil;0;3;Mexico
+13/06/86;Denmark;Germany;2;0;Mexico
+13/06/86;Scotland;Uruguay;0;0;Mexico
+15/06/86;Mexico;Bulgaria;2;0;Mexico
+15/06/86;Russia;Belgium;3;4;Mexico
+16/06/86;Argentina;Uruguay;1;0;Mexico
+16/06/86;Brazil;Poland;4;0;Mexico
+17/06/86;Italy;France;0;2;Mexico
+17/06/86;Morocco;Germany;0;1;Mexico
+18/06/86;Denmark;Spain;1;5;Mexico
+18/06/86;England;Paraguay;3;0;Mexico
+21/06/86;Brazil;France;1;1;Mexico
+21/06/86;Mexico;Germany;0;0;Mexico
+22/06/86;Argentina;England;2;1;Mexico
+22/06/86;Spain;Belgium;1;1;Mexico
+25/06/86;Argentina;Belgium;2;0;Mexico
+25/06/86;France;Germany;0;2;Mexico
+28/06/86;France;Belgium;4;2;Mexico
+29/06/86;Argentina;Germany;3;2;Mexico
+08/06/90;Argentina;Cameroon;0;1;Italy
+09/06/90;Italy;Austria;1;0;Italy
+09/06/90;Russia;Romania;0;2;Italy
+09/06/90;United Arab Emirates;Colombia;0;2;Italy
+10/06/90;Brazil;Sweden;2;1;Italy
+10/06/90;Germany;Yugoslavia;4;1;Italy
+10/06/90;USA;Czechoslovakia;1;5;Italy
+11/06/90;Costa Rica;Scotland;1;0;Italy
+11/06/90;England;Ireland;1;1;Italy
+12/06/90;Belgium;Korea Republic;2;0;Italy
+12/06/90;Netherlands;Egypt;1;1;Italy
+13/06/90;Argentina;Russia;2;0;Italy
+13/06/90;Uruguay;Spain;0;0;Italy
+14/06/90;Cameroon;Romania;2;1;Italy
+14/06/90;Italy;USA;1;0;Italy
+14/06/90;Yugoslavia;Colombia;1;0;Italy
+15/06/90;Austria;Czechoslovakia;0;1;Italy
+15/06/90;Germany;United Arab Emirates;5;1;Italy
+16/06/90;Brazil;Costa Rica;1;0;Italy
+16/06/90;England;Netherlands;0;0;Italy
+16/06/90;Sweden;Scotland;1;2;Italy
+17/06/90;Belgium;Uruguay;3;1;Italy
+17/06/90;Ireland;Egypt;0;0;Italy
+17/06/90;Korea Republic;Spain;1;3;Italy
+18/06/90;Argentina;Romania;1;1;Italy
+18/06/90;Cameroon;Russia;0;4;Italy
+19/06/90;Austria;USA;2;1;Italy
+19/06/90;Germany;Colombia;1;1;Italy
+19/06/90;Italy;Czechoslovakia;2;0;Italy
+19/06/90;Yugoslavia;United Arab Emirates;4;1;Italy
+20/06/90;Brazil;Scotland;1;0;Italy
+20/06/90;Sweden;Costa Rica;1;2;Italy
+21/06/90;Belgium;Spain;1;2;Italy
+21/06/90;England;Egypt;1;0;Italy
+21/06/90;Ireland;Netherlands;1;1;Italy
+21/06/90;Korea Republic;Uruguay;0;1;Italy
+23/06/90;Cameroon;Colombia;2;1;Italy
+23/06/90;Czechoslovakia;Costa Rica;4;1;Italy
+24/06/90;Brazil;Argentina;0;1;Italy
+24/06/90;Germany;Netherlands;2;1;Italy
+25/06/90;Ireland;Romania;0;0;Italy
+25/06/90;Italy;Uruguay;2;0;Italy
+26/06/90;England;Belgium;1;0;Italy
+26/06/90;Spain;Yugoslavia;1;2;Italy
+30/06/90;Italy;Ireland;1;0;Italy
+30/06/90;Yugoslavia;Argentina;0;0;Italy
+01/07/90;Cameroon;England;2;3;Italy
+01/07/90;Germany;Czechoslovakia;1;0;Italy
+03/07/90;Italy;Argentina;1;1;Italy
+04/07/90;Germany;England;1;1;Italy
+07/07/90;Italy;England;2;1;Italy
+08/07/90;Germany;Argentina;1;0;Italy
+17/06/94;Germany;Bolivia;1;0;USA
+17/06/94;Spain;Korea Republic;2;2;USA
+18/06/94;Colombia;Romania;1;3;USA
+18/06/94;Italy;Ireland;0;1;USA
+18/06/94;USA;Switzerland;1;1;USA
+19/06/94;Belgium;Morocco;1;0;USA
+19/06/94;Cameroon;Sweden;2;2;USA
+19/06/94;Norway;Mexico;1;0;USA
+20/06/94;Brazil;Russia;2;0;USA
+20/06/94;Netherlands;Saudi Arabia;2;1;USA
+21/06/94;Argentina;Greece;4;0;USA
+21/06/94;Germany;Spain;1;1;USA
+21/06/94;Nigeria;Bulgaria;3;0;USA
+22/06/94;Romania;Switzerland;1;4;USA
+22/06/94;USA;Colombia;2;1;USA
+23/06/94;Italy;Norway;1;0;USA
+23/06/94;Korea Republic;Bolivia;0;0;USA
+24/06/94;Brazil;Cameroon;3;0;USA
+24/06/94;Mexico;Ireland;2;1;USA
+24/06/94;Sweden;Russia;3;1;USA
+25/06/94;Argentina;Nigeria;2;1;USA
+25/06/94;Belgium;Netherlands;1;0;USA
+25/06/94;Saudi Arabia;Morocco;2;1;USA
+26/06/94;Bulgaria;Greece;4;0;USA
+26/06/94;Switzerland;Colombia;0;2;USA
+26/06/94;USA;Romania;0;1;USA
+27/06/94;Bolivia;Spain;1;3;USA
+27/06/94;Germany;Korea Republic;3;2;USA
+28/06/94;Brazil;Sweden;1;1;USA
+28/06/94;Ireland;Norway;0;0;USA
+28/06/94;Italy;Mexico;1;1;USA
+28/06/94;Russia;Cameroon;6;1;USA
+29/06/94;Belgium;Saudi Arabia;0;1;USA
+29/06/94;Morocco;Netherlands;1;2;USA
+30/06/94;Argentina;Bulgaria;0;2;USA
+30/06/94;Greece;Nigeria;0;2;USA
+02/07/94;Germany;Belgium;3;2;USA
+02/07/94;Spain;Switzerland;3;0;USA
+03/07/94;Romania;Argentina;3;2;USA
+03/07/94;Saudi Arabia;Sweden;1;3;USA
+04/07/94;Netherlands;Ireland;2;0;USA
+04/07/94;USA;Brazil;0;1;USA
+05/07/94;Mexico;Bulgaria;1;1;USA
+05/07/94;Nigeria;Italy;1;2;USA
+09/07/94;Italy;Spain;2;1;USA
+09/07/94;Netherlands;Brazil;2;3;USA
+10/07/94;Bulgaria;Germany;2;1;USA
+10/07/94;Romania;Sweden;2;2;USA
+13/07/94;Bulgaria;Italy;1;2;USA
+13/07/94;Sweden;Brazil;0;1;USA
+16/07/94;Sweden;Bulgaria;4;0;USA
+17/07/94;Brazil;Italy;0;0;USA
+10/06/98;Brazil;Scotland;2;1;France
+10/06/98;Morocco;Norway;2;2;France
+11/06/98;Cameroon;Austria;1;1;France
+11/06/98;Italy;Chile;2;2;France
+12/06/98;France;South Africa;3;0;France
+12/06/98;Paraguay;Bulgaria;0;0;France
+12/06/98;Saudi Arabia;Denmark;0;1;France
+13/06/98;Korea Republic;Mexico;1;3;France
+13/06/98;Netherlands;Belgium;0;0;France
+13/06/98;Spain;Nigeria;2;3;France
+14/06/98;Argentina;Japan;1;0;France
+14/06/98;Jamaica;Croatia;1;3;France
+14/06/98;Serbia;Iran;1;0;France
+15/06/98;England;Tunisia;2;0;France
+15/06/98;Germany;USA;2;0;France
+15/06/98;Romania;Colombia;1;0;France
+16/06/98;Brazil;Morocco;3;0;France
+16/06/98;Scotland;Norway;1;1;France
+17/06/98;Chile;Austria;1;1;France
+17/06/98;Italy;Cameroon;3;0;France
+18/06/98;France;Saudi Arabia;4;0;France
+18/06/98;South Africa;Denmark;1;1;France
+19/06/98;Nigeria;Bulgaria;1;0;France
+19/06/98;Spain;Paraguay;0;0;France
+20/06/98;Belgium;Mexico;2;2;France
+20/06/98;Japan;Croatia;0;1;France
+20/06/98;Netherlands;Korea Republic;5;0;France
+21/06/98;Argentina;Jamaica;5;0;France
+21/06/98;Germany;Serbia;2;2;France
+21/06/98;USA;Iran;1;2;France
+22/06/98;Colombia;Tunisia;1;0;France
+22/06/98;Romania;England;2;1;France
+23/06/98;Brazil;Norway;1;2;France
+23/06/98;Chile;Cameroon;1;1;France
+23/06/98;Italy;Austria;2;1;France
+23/06/98;Scotland;Morocco;0;3;France
+24/06/98;France;Denmark;2;1;France
+24/06/98;Nigeria;Paraguay;1;3;France
+24/06/98;South Africa;Saudi Arabia;2;2;France
+24/06/98;Spain;Bulgaria;6;1;France
+25/06/98;Belgium;Korea Republic;1;1;France
+25/06/98;Germany;Iran;2;0;France
+25/06/98;Netherlands;Mexico;2;2;France
+25/06/98;USA;Serbia;0;1;France
+26/06/98;Argentina;Croatia;1;0;France
+26/06/98;Colombia;England;0;2;France
+26/06/98;Japan;Jamaica;1;2;France
+26/06/98;Romania;Tunisia;1;1;France
+27/06/98;Brazil;Chile;4;1;France
+27/06/98;Italy;Norway;1;0;France
+28/06/98;France;Paraguay;1;0;France
+28/06/98;Nigeria;Denmark;1;4;France
+29/06/98;Germany;Mexico;2;1;France
+29/06/98;Netherlands;Serbia;2;1;France
+30/06/98;Argentina;England;2;2;France
+30/06/98;Romania;Croatia;0;1;France
+03/07/98;Brazil;Denmark;3;2;France
+03/07/98;France;Italy;0;0;France
+04/07/98;Germany;Croatia;0;3;France
+04/07/98;Netherlands;Argentina;2;1;France
+07/07/98;Brazil;Netherlands;1;1;France
+08/07/98;France;Croatia;2;1;France
+11/07/98;Netherlands;Croatia;1;2;France
+12/07/98;France;Brazil;3;0;France
+31/05/02;France;Senegal;0;1;Korea Republic
+01/06/02;Germany;Saudi Arabia;8;0;Japan
+01/06/02;Ireland;Cameroon;1;1;Japan
+01/06/02;Uruguay;Denmark;1;2;Korea Republic
+02/06/02;Argentina;Nigeria;1;0;Japan
+02/06/02;England;Sweden;1;1;Japan
+02/06/02;Paraguay;South Africa;2;2;Korea Republic
+02/06/02;Spain;Slovenia;3;1;Korea Republic
+03/06/02;Brazil;Turkey;2;1;Korea Republic
+03/06/02;Croatia;Mexico;0;1;Japan
+03/06/02;Italy;Ecuador;2;0;Japan
+04/06/02;China;Costa Rica;0;2;Korea Republic
+04/06/02;Japan;Belgium;2;2;Japan
+04/06/02;Korea Republic;Poland;2;0;Korea Republic
+05/06/02;Germany;Ireland;1;1;Japan
+05/06/02;Russia;Tunisia;2;0;Japan
+05/06/02;USA;Portugal;3;2;Korea Republic
+06/06/02;Cameroon;Saudi Arabia;1;0;Japan
+06/06/02;Denmark;Senegal;1;1;Korea Republic
+06/06/02;France;Uruguay;0;0;Korea Republic
+07/06/02;Argentina;England;0;1;Japan
+07/06/02;Spain;Paraguay;3;1;Korea Republic
+07/06/02;Sweden;Nigeria;2;1;Japan
+08/06/02;Brazil;China;4;0;Korea Republic
+08/06/02;Italy;Croatia;1;2;Japan
+08/06/02;South Africa;Slovenia;1;0;Korea Republic
+09/06/02;Costa Rica;Turkey;1;1;Korea Republic
+09/06/02;Japan;Russia;1;0;Japan
+09/06/02;Mexico;Ecuador;2;1;Japan
+10/06/02;Korea Republic;USA;1;1;Korea Republic
+10/06/02;Portugal;Poland;4;0;Korea Republic
+10/06/02;Tunisia;Belgium;1;1;Japan
+11/06/02;Cameroon;Germany;0;2;Japan
+11/06/02;Denmark;France;2;0;Korea Republic
+11/06/02;Saudi Arabia;Ireland;0;3;Japan
+11/06/02;Senegal;Uruguay;3;3;Korea Republic
+12/06/02;Nigeria;England;0;0;Japan
+12/06/02;Slovenia;Paraguay;1;3;Korea Republic
+12/06/02;South Africa;Spain;2;3;Korea Republic
+12/06/02;Sweden;Argentina;1;1;Japan
+13/06/02;Costa Rica;Brazil;2;5;Korea Republic
+13/06/02;Ecuador;Croatia;1;0;Japan
+13/06/02;Mexico;Italy;1;1;Japan
+13/06/02;Turkey;China;3;0;Korea Republic
+14/06/02;Belgium;Russia;3;2;Japan
+14/06/02;Japan;Tunisia;2;0;Japan
+14/06/02;Korea Republic;Portugal;1;0;Korea Republic
+14/06/02;Poland;USA;3;1;Korea Republic
+15/06/02;Denmark;England;0;3;Japan
+15/06/02;Germany;Paraguay;1;0;Korea Republic
+16/06/02;Spain;Ireland;1;1;Korea Republic
+16/06/02;Sweden;Senegal;1;2;Japan
+17/06/02;Brazil;Belgium;2;0;Japan
+17/06/02;Mexico;USA;0;2;Korea Republic
+18/06/02;Japan;Turkey;0;1;Japan
+18/06/02;Korea Republic;Italy;2;1;Korea Republic
+21/06/02;England;Brazil;1;2;Japan
+21/06/02;Germany;USA;1;0;Korea Republic
+22/06/02;Korea Republic;Spain;0;0;Korea Republic
+22/06/02;Senegal;Turkey;0;1;Japan
+25/06/02;Korea Republic;Germany;0;1;Korea Republic
+26/06/02;Brazil;Turkey;1;0;Japan
+29/06/02;Korea Republic;Turkey;2;3;Korea Republic
+30/06/02;Germany;Brazil;0;2;Japan
+09/06/06;Germany;Costa Rica;4;2;Germany
+09/06/06;Poland;Ecuador;0;2;Germany
+10/06/06;Argentina;Ivory Coast;2;1;Germany
+10/06/06;England;Paraguay;1;0;Germany
+10/06/06;Trinidad and Tobago;Sweden;0;0;Germany
+11/06/06;Angola;Portugal;0;1;Germany
+11/06/06;Mexico;Iran;3;1;Germany
+11/06/06;Serbia;Netherlands;0;1;Germany
+12/06/06;Australia;Japan;3;1;Germany
+12/06/06;Italy;Ghana;2;0;Germany
+12/06/06;USA;Czech Republic;0;3;Germany
+13/06/06;Brazil;Croatia;1;0;Germany
+13/06/06;France;Switzerland;0;0;Germany
+13/06/06;Korea Republic;Togo;2;1;Germany
+14/06/06;Germany;Poland;1;0;Germany
+14/06/06;Spain;Ukraine;4;0;Germany
+14/06/06;Tunisia;Saudi Arabia;2;2;Germany
+15/06/06;Ecuador;Costa Rica;3;0;Germany
+15/06/06;England;Trinidad and Tobago;2;0;Germany
+15/06/06;Sweden;Paraguay;1;0;Germany
+16/06/06;Argentina;Serbia;6;0;Germany
+16/06/06;Mexico;Angola;0;0;Germany
+16/06/06;Netherlands;Ivory Coast;2;1;Germany
+17/06/06;Czech Republic;Ghana;0;2;Germany
+17/06/06;Italy;USA;1;1;Germany
+17/06/06;Portugal;Iran;2;0;Germany
+18/06/06;Brazil;Australia;2;0;Germany
+18/06/06;France;Korea Republic;1;1;Germany
+18/06/06;Japan;Croatia;0;0;Germany
+19/06/06;Saudi Arabia;Ukraine;0;4;Germany
+19/06/06;Spain;Tunisia;3;1;Germany
+19/06/06;Togo;Switzerland;0;2;Germany
+20/06/06;Costa Rica;Poland;1;2;Germany
+20/06/06;Germany;Ecuador;3;0;Germany
+20/06/06;Paraguay;Trinidad and Tobago;2;0;Germany
+20/06/06;Sweden;England;2;2;Germany
+21/06/06;Iran;Angola;1;1;Germany
+21/06/06;Ivory Coast;Serbia;3;2;Germany
+21/06/06;Netherlands;Argentina;0;0;Germany
+21/06/06;Portugal;Mexico;2;1;Germany
+22/06/06;Croatia;Australia;2;2;Germany
+22/06/06;Czech Republic;Italy;0;2;Germany
+22/06/06;Ghana;USA;2;1;Germany
+22/06/06;Japan;Brazil;1;4;Germany
+23/06/06;Saudi Arabia;Spain;0;1;Germany
+23/06/06;Switzerland;Korea Republic;2;0;Germany
+23/06/06;Togo;France;0;2;Germany
+23/06/06;Ukraine;Tunisia;1;0;Germany
+24/06/06;Argentina;Mexico;2;1;Germany
+24/06/06;Germany;Sweden;2;0;Germany
+25/06/06;England;Ecuador;1;0;Germany
+25/06/06;Portugal;Netherlands;1;0;Germany
+26/06/06;Italy;Australia;1;0;Germany
+26/06/06;Switzerland;Ukraine;0;0;Germany
+27/06/06;Brazil;Ghana;3;0;Germany
+27/06/06;Spain;France;1;3;Germany
+30/06/06;Germany;Argentina;1;1;Germany
+30/06/06;Italy;Ukraine;3;0;Germany
+01/07/06;Brazil;France;0;1;Germany
+01/07/06;England;Portugal;0;0;Germany
+04/07/06;Germany;Italy;0;2;Germany
+05/07/06;Portugal;France;0;1;Germany
+08/07/06;Germany;Portugal;3;1;Germany
+09/07/06;Italy;France;1;1;Germany
+11/06/10;South Africa;Mexico;1;1;South Africa
+11/06/10;Uruguay;France;0;0;South Africa
+12/06/10;Argentina;Nigeria;1;0;South Africa
+12/06/10;England;USA;1;1;South Africa
+12/06/10;Korea Republic;Greece;2;0;South Africa
+13/06/10;Algeria;Slovenia;0;1;South Africa
+13/06/10;Germany;Australia;4;0;South Africa
+13/06/10;Serbia;Ghana;0;1;South Africa
+14/06/10;Italy;Paraguay;1;1;South Africa
+14/06/10;Japan;Cameroon;1;0;South Africa
+14/06/10;Netherlands;Denmark;2;0;South Africa
+15/06/10;Brazil;Korea DPR;2;1;South Africa
+15/06/10;Ivory Coast;Portugal;0;0;South Africa
+15/06/10;New Zealand;Slovakia;1;1;South Africa
+16/06/10;Honduras;Chile;0;1;South Africa
+16/06/10;South Africa;Uruguay;0;3;South Africa
+16/06/10;Spain;Switzerland;0;1;South Africa
+17/06/10;Argentina;Korea Republic;4;1;South Africa
+17/06/10;France;Mexico;0;2;South Africa
+17/06/10;Greece;Nigeria;2;1;South Africa
+18/06/10;England;Algeria;0;0;South Africa
+18/06/10;Germany;Serbia;0;1;South Africa
+18/06/10;Slovenia;USA;2;2;South Africa
+19/06/10;Cameroon;Denmark;1;2;South Africa
+19/06/10;Ghana;Australia;1;1;South Africa
+19/06/10;Netherlands;Japan;1;0;South Africa
+20/06/10;Brazil;Ivory Coast;3;1;South Africa
+20/06/10;Italy;New Zealand;1;1;South Africa
+20/06/10;Slovakia;Paraguay;0;2;South Africa
+21/06/10;Chile;Switzerland;1;0;South Africa
+21/06/10;Portugal;Korea DPR;7;0;South Africa
+21/06/10;Spain;Honduras;2;0;South Africa
+22/06/10;Greece;Argentina;0;2;South Africa
+22/06/10;Mexico;Uruguay;0;1;South Africa
+22/06/10;Nigeria;Korea Republic;2;2;South Africa
+22/06/10;South Africa;France;2;1;South Africa
+23/06/10;Australia;Serbia;2;1;South Africa
+23/06/10;Ghana;Germany;0;1;South Africa
+23/06/10;Slovenia;England;0;1;South Africa
+23/06/10;USA;Algeria;1;0;South Africa
+24/06/10;Cameroon;Netherlands;1;2;South Africa
+24/06/10;Denmark;Japan;1;3;South Africa
+24/06/10;Paraguay;New Zealand;0;0;South Africa
+24/06/10;Slovakia;Italy;3;2;South Africa
+25/06/10;Chile;Spain;1;2;South Africa
+25/06/10;Korea DPR;Ivory Coast;0;3;South Africa
+25/06/10;Portugal;Brazil;0;0;South Africa
+25/06/10;Switzerland;Honduras;0;0;South Africa
+26/06/10;Uruguay;Korea Republic;2;1;South Africa
+26/06/10;USA;Ghana;1;2;South Africa
+27/06/10;Argentina;Mexico;3;1;South Africa
+27/06/10;Germany;England;4;1;South Africa
+28/06/10;Brazil;Chile;3;0;South Africa
+28/06/10;Netherlands;Slovakia;2;1;South Africa
+29/06/10;Paraguay;Japan;0;0;South Africa
+29/06/10;Spain;Portugal;1;0;South Africa
+02/07/10;Netherlands;Brazil;2;1;South Africa
+02/07/10;Uruguay;Ghana;1;1;South Africa
+03/07/10;Argentina;Germany;0;4;South Africa
+03/07/10;Paraguay;Spain;0;1;South Africa
+06/07/10;Uruguay;Netherlands;2;3;South Africa
+07/07/10;Germany;Spain;0;1;South Africa
+10/07/10;Uruguay;Germany;2;3;South Africa
+11/07/10;Netherlands;Spain;0;1;South Africa
+12/06/14;Brazil;Croatia;3;1;Brazil
+13/06/14;Chile;Australia;3;1;Brazil
+13/06/14;Mexico;Cameroon;1;0;Brazil
+13/06/14;Spain;Netherlands;1;5;Brazil
+14/06/14;Colombia;Greece;3;0;Brazil
+14/06/14;England;Italy;1;2;Brazil
+14/06/14;Ivory Coast;Japan;2;1;Brazil
+14/06/14;Uruguay;Costa Rica;1;3;Brazil
+15/06/14;Argentina;Bosnia-Herzegovina;2;1;Brazil
+15/06/14;France;Honduras;3;0;Brazil
+15/06/14;Switzerland;Ecuador;2;1;Brazil
+16/06/14;Germany;Portugal;4;0;Brazil
+16/06/14;Ghana;USA;1;2;Brazil
+16/06/14;Iran;Nigeria;0;0;Brazil
+17/06/14;Belgium;Algeria;2;1;Brazil
+17/06/14;Brazil;Mexico;0;0;Brazil
+17/06/14;Russia;Korea Republic;1;1;Brazil
+18/06/14;Australia;Netherlands;2;3;Brazil
+18/06/14;Cameroon;Croatia;0;4;Brazil
+18/06/14;Spain;Chile;0;2;Brazil
+19/06/14;Colombia;Ivory Coast;2;1;Brazil
+19/06/14;Japan;Greece;0;0;Brazil
+19/06/14;Uruguay;England;2;1;Brazil
+20/06/14;Honduras;Ecuador;1;2;Brazil
+20/06/14;Italy;Costa Rica;0;1;Brazil
+20/06/14;Switzerland;France;2;5;Brazil
+21/06/14;Argentina;Iran;1;0;Brazil
+21/06/14;Germany;Ghana;2;2;Brazil
+21/06/14;Nigeria;Bosnia-Herzegovina;1;0;Brazil
+22/06/14;Belgium;Russia;1;0;Brazil
+22/06/14;Korea Republic;Algeria;2;4;Brazil
+22/06/14;USA;Portugal;2;2;Brazil
+23/06/14;Australia;Spain;0;3;Brazil
+23/06/14;Brazil;Cameroon;4;1;Brazil
+23/06/14;Croatia;Mexico;1;3;Brazil
+23/06/14;Netherlands;Chile;2;0;Brazil
+24/06/14;Costa Rica;England;0;0;Brazil
+24/06/14;Greece;Ivory Coast;2;1;Brazil
+24/06/14;Italy;Uruguay;0;1;Brazil
+24/06/14;Japan;Colombia;1;4;Brazil
+25/06/14;Bosnia-Herzegovina;Iran;3;1;Brazil
+25/06/14;Ecuador;France;0;0;Brazil
+25/06/14;Honduras;Switzerland;0;3;Brazil
+25/06/14;Nigeria;Argentina;2;3;Brazil
+26/06/14;Algeria;Russia;1;1;Brazil
+26/06/14;Korea Republic;Belgium;0;1;Brazil
+26/06/14;Portugal;Ghana;2;1;Brazil
+26/06/14;USA;Germany;0;1;Brazil
+28/06/14;Brazil;Chile;1;1;Brazil
+28/06/14;Colombia;Uruguay;2;0;Brazil
+29/06/14;Costa Rica;Greece;1;1;Brazil
+29/06/14;Netherlands;Mexico;2;1;Brazil
+30/06/14;France;Nigeria;2;0;Brazil
+30/06/14;Germany;Algeria;2;1;Brazil
+01/07/14;Argentina;Switzerland;1;0;Brazil
+01/07/14;Belgium;USA;2;1;Brazil
+04/07/14;Brazil;Colombia;2;1;Brazil
+04/07/14;France;Germany;0;1;Brazil
+05/07/14;Argentina;Belgium;1;0;Brazil
+05/07/14;Netherlands;Costa Rica;0;0;Brazil
+08/07/14;Brazil;Germany;1;7;Brazil
+09/07/14;Netherlands;Argentina;0;0;Brazil
+12/07/14;Brazil;Netherlands;0;3;Brazil
+13/07/14;Germany;Argentina;1;0;Brazil
+14/06/18;Russia;Saudi Arabia;5;0;Russia
+15/06/18;Egypt;Uruguay;0;1;Russia
+15/06/18;Morocco;Iran;0;1;Russia
+15/06/18;Portugal;Spain;3;3;Russia
+16/06/18;France;Australia;2;1;Russia
+16/06/18;Argentina;Iceland;1;1;Russia
+16/06/18;Peru;Denmark;0;1;Russia
+16/06/18;Croatia;Nigeria;2;0;Russia
+17/06/18;Costa Rica;Serbia;0;1;Russia
+17/06/18;Germany;Mexico;0;1;Russia
+17/06/18;Brazil;Switzerland;1;1;Russia
